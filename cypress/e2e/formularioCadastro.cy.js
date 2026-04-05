@@ -10,6 +10,7 @@ const senha = chance.string({ length: 6 });
 
 describe('Formulário Cadastro', () => {
   beforeEach(() => {
+    cy.task('gerarUsuariosFixture')
     cy.visit('/')
   })
 

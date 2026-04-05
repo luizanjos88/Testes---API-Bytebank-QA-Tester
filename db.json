@@ -131,6 +131,14 @@
       "transacoes": [],
       "saldo": 0,
       "id": "5nNQgOPH6yU"
+    },
+    {
+      "nome": "Jayden Bradley",
+      "email": "iwude@zinecwip.kr",
+      "senha": "EHil(d",
+      "transacoes": [],
+      "saldo": 0,
+      "id": "hvaw7kyVa-E"
     }
   ],
   "transacoes": [
@@ -189,10 +197,87 @@
       "data": "05/04/2026",
       "mes": "Abril",
       "id": "oF75xbZ46pw"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "2c5ljYn7_yU"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "IWnLDafn8AA"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "3kAJam3MyZE"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "LxISTw3SDfc"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "Q-mXBZYnNEM"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "818",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "mel-VASfanc"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "107",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "6QrpFZNI6hY"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "224",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "5pKz2C05o-M"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "974",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "PPVq5S1Vd9U"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "964",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "gd-_0ebiGNs"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "265",
+      "data": "05/04/2026",
+      "mes": "Abril",
+      "id": "AQyRnIFPYww"
     }
   ],
   "saldo": {
-    "valor": 1780
+    "valor": -1972
   },
   "$schema": "./node_modules/json-server/schema.json"
 }
