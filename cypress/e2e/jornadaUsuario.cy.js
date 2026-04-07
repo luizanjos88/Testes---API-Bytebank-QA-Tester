@@ -1,6 +1,7 @@
 import Chance from 'chance';
 
 const chance = new Chance();
+const valorTransferencia = chance.integer({ min: 1, max: 1000 });
 
 
 describe('Jornadas de usuário', () => {
@@ -11,7 +12,8 @@ describe('Jornadas de usuário', () => {
   });
 
   it('Deve permitir que a pessoa usuária acesse a aplicação, realize uma transação e faça um logout', function () {
-    const valorTransferencia = chance.integer({ min: 1, max: 1000 });
+
+
     cy.getByData('botao-login').click();
 
     cy.getByData('email-input').type(this.usuarios[5].email);

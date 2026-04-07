@@ -22,6 +22,7 @@ describe('Formulário Cadastro', () => {
 
   it('Usuário deve conseguir se cadastrar com sucesso e permitir que a pessoa usuária recem cadastrada acesse a aplicação', () => {
     cadastroPage.cadastroSucesso(nome, email, senha);
+    cy.task('gerarUsuariosFixture');
     loginPage.loginSucesso(email, senha, nome);
   })
 

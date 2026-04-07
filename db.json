@@ -62,7 +62,7 @@
     },
     {
       "nome": "LUIZ CARLOS GIACHELLO",
-      "email": "luizanjos88@edu.mt.gov.br",
+      "email": "luiz.anjos@edu.mt.gov.br",
       "senha": "123456",
       "transacoes": [],
       "saldo": 0,
@@ -363,6 +363,22 @@
       "transacoes": [],
       "saldo": 0,
       "id": "_gxjuWN0Asc"
+    },
+    {
+      "nome": "Celia Lindsey",
+      "email": "ifufu@ugoh.vc",
+      "senha": "d8fE6(",
+      "transacoes": [],
+      "saldo": 0,
+      "id": "L5CoWE3eZNI"
+    },
+    {
+      "nome": "Polly Ballard",
+      "email": "ica@la.nc",
+      "senha": "GCN31s",
+      "transacoes": [],
+      "saldo": 0,
+      "id": "fl_jI4mBJMw"
     }
   ],
   "transacoes": [
@@ -498,10 +514,24 @@
       "data": "05/04/2026",
       "mes": "Abril",
       "id": "AQyRnIFPYww"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "279",
+      "data": "06/04/2026",
+      "mes": "Abril",
+      "id": "CyGgFi71iPw"
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "187",
+      "data": "06/04/2026",
+      "mes": "Abril",
+      "id": "ynx7FxRFoqg"
     }
   ],
   "saldo": {
-    "valor": -1972
+    "valor": -2438
   },
   "$schema": "./node_modules/json-server/schema.json"
 }
